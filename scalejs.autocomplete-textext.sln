@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scalejs.autocomplete-textext", "scalejs.autocomplete-textext\scalejs.autocomplete-textext.csproj", "{CBB3D24D-A50D-45B2-9F11-0907BF96DF42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scalejs.autocomplete-textext", "scalejs.autocomplete-textext.csproj", "{CBB3D24D-A50D-45B2-9F11-0907BF96DF42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -9,6 +9,7 @@
     <RestorePackages>true</RestorePackages>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="autocomplete.js" />
     <Content Include="Properties\build.rjs" />
     <Content Include="Properties\scalejs.autocomplete-textext.nuspec">
       <SubType>Designer</SubType>
