@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>scalejs.mvvm</id>
+    <version>0.2.3.35</version>
+    <title>scalejs.mvvm</title>
+    <authors>Peter Lisovin</authors>
+    <owners>Peter Lisovin</owners>
+    <projectUrl>https://github.com/lisovin/scalejs.mvvm</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MVVM extension for scalable JavaScript application</description>
+    <summary>MVVM extension for scalable JavaScript application</summary>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>JavaScript scalejs scalejs.mvvm</tags>
+    <dependencies>
+      <dependency id="knockoutjs" version="[2.2.1]" />
+      <dependency id="Knockout.Mapping" version="2.3.4" />
+      <dependency id="scalejs" version="0.2.0" />
+    </dependencies>
+  </metadata>
+</package>
